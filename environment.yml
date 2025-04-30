@@ -1,0 +1,40 @@
+name: btp
+channels:
+  - conda-forge
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10  # PyTorch 2.5+ requires Python 3.10+
+  - pytorch=2.5.1
+  - torchaudio
+  - torchvision
+  - cpuonly
+  - numpy
+  - matplotlib
+  - pillow
+  - brotli
+  - zstandard
+  - gmp
+  - gym=0.26.1
+  - openssl=3.4.*
+  - freetype
+  - tk
+  - ncurses
+  - tornado=6.4.*
+  - certifi
+  - pip
+  - setuptools
+  - wheel
+  - requests
+  - networkx
+  - sympy
+  - cloudpickle
+  - wandb
+  - pip:
+      - gymnasium
+      - pandas
+      - tyro
+      - stable-baselines3
+      - tensorboard
+      - wandb
+      - tqdm
