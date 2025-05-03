@@ -1,0 +1,15 @@
+Checkpoint: bc_agent_1_24.pth, Average Goals Reached: 18.85, Average Reward: 18.85
+Checkpoint: bc_agent_1_49.pth, Average Goals Reached: 20.25, Average Reward: 20.25
+Checkpoint: bc_agent_1_74.pth, Average Goals Reached: 20.75, Average Reward: 20.75
+Checkpoint: bc_agent_1_99.pth, Average Goals Reached: 18.2, Average Reward: 18.2
+Checkpoint: bc_agent_1_124.pth, Average Goals Reached: 18.51, Average Reward: 18.51
+Checkpoint: bc_agent_1_149.pth, Average Goals Reached: 18.25, Average Reward: 18.25
+Checkpoint: bc_agent_1_174.pth, Average Goals Reached: 20.45, Average Reward: 20.45
+Checkpoint: bc_agent_1_199.pth, Average Goals Reached: 18.08, Average Reward: 18.08
+Checkpoint: bc_agent_1_224.pth, Average Goals Reached: 19.51, Average Reward: 19.51
+Checkpoint: bc_agent_1_249.pth, Average Goals Reached: 19.22, Average Reward: 19.22
+Checkpoint: bc_agent_1_274.pth, Average Goals Reached: 21.59, Average Reward: 21.59
+Checkpoint: bc_agent_1_299.pth, Average Goals Reached: 20.18, Average Reward: 20.18
+Checkpoint: bc_agent_1_324.pth, Average Goals Reached: 18.51, Average Reward: 18.51
+
+

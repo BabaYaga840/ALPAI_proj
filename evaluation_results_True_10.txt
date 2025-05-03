@@ -1,0 +1,4 @@
+Checkpoint: bc_agent_1_24.pth, Average Goals Reached: 20.3, Average Reward: 20.219285846939083
+Checkpoint: bc_agent_1_49.pth, Average Goals Reached: 20.79, Average Reward: 20.70921112350464
+Checkpoint: bc_agent_1_74.pth, Average Goals Reached: 20.45, Average Reward: 20.369464228973378
+Checkpoint: bc_agent_1_99.pth, Average Goals Reached: 21.53, Average Reward: 21.44886911140442
